@@ -28,7 +28,7 @@
  *   - `WaveformPlaylistExpose` — the imperative navigation API exported by
  *     the component instance, reachable through `bind:this`.
  *
- * @see {@link https://github.com/arraypress/waveform-playlist} — core library
+ * @see {@link https://github.com/WaveformPlayer/waveform-playlist} — core library
  */
 import type {
 	WaveformPlaylist,
